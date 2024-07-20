@@ -1,11 +1,11 @@
-# Welcome to the AICADD Lab!
+# Welcome to Chemoinformatics Lab!
 
-## Hi there, we are the AICADD lab based at Soongsil University. 👋
+## Hi there, we are Chemoinformatics lab based at Soongsil University. 👋
 
-[AICADD Lab](https://aicadd.ssu.ac.kr/)
+[Chemoinformatics Lab](https://aicadd.ssu.ac.kr/)
 
 ### About Us
-The **Artificial Intelligence and Computer-Aided Design & Development (AICADD) Lab** at Soongsil University focuses on innovative research and development in the fields of AI, Computer Aided Drug Design, and various interdisciplinary applications. Our mission is to advance computational technology and create solutions that address real-world problems to deliver solutions in the field of Drug Discovery.
+The **Chemoinformatics Lab** at Soongsil University focuses on innovative research and development in the fields of AI, Computer Aided Drug Design, and various interdisciplinary applications. Our mission is to advance computational technology and create solutions that address real-world problems to deliver solutions in the field of Drug Discovery.
 
 
 ### Publications
@@ -16,7 +16,7 @@ Our team has published numerous papers in top-tier journals and conferences. [Ch
 We actively collaborate with industry partners, academic institutions, and research organizations. If you are interested in collaborating with us, please [get in touch](mailto:chokh@ssu.ac.kr).
 
 ### Join Us
-We are always looking for motivated students and researchers to join our team. For more information on current openings and how to apply, please visit our [AICADD Lab](https://aicadd.ssu.ac.kr/).
+We are always looking for motivated students and researchers to join our team. For more information on current openings and how to apply, please visit our [Chemoinformatics Lab](https://aicadd.ssu.ac.kr/).
 
 ### Contact
 For any inquiries, please contact us at:
