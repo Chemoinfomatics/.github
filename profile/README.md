@@ -21,7 +21,7 @@ We are always looking for motivated students and researchers to join our team. F
 ### Contact
 For any inquiries, please contact us at:
 please [get in touch](mailto:chokh@ssu.ac.kr)
-- **Address**: Soongsil University, [Address], Seoul, South Korea
+- **Address**: Soongsil University, Seoul, South Korea
 
 ### Connect with Us
 Stay updated with our latest news and research:
